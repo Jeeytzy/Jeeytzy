@@ -29,9 +29,9 @@ const jeeyhosting = {
     motto: "Belajar banyak hal membawa saya ke dunia yang begitu luas",
     coffee: "☕ Fuel for coding",
     links: {
-        website: "https://lynk.id/jeeyhosting",
+        website: "https://Jeey.com",
         whatsapp: "Contact via WhatsApp",
-        tiktok: "@jeeyhosting"
+        tiktok: "@bangjeey_dev"
     }
 };
 ```
